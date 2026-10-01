@@ -4,6 +4,7 @@
 무료 인프라나 단일 노드의 자원 한계, 해외 리전 간 네트워크 지연(RTT), 보안 규격 제약 속에서 발생하는 병목을 측정하고 코드로 해결하는 과정에 집중합니다.
 
 - **Tech Blog**: [mmmphyun.github.io/security-agent-toolkit/blog/](https://mmmphyun.github.io/security-agent-toolkit/blog/)
+- **Contact**: [gksdmqdbs@gmail.com](mailto:gksdmqdbs@gmail.com)
 
 ---
 
