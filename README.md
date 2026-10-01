@@ -3,6 +3,8 @@
 컴퓨터공학 전공 4학년으로, 클라우드 인프라 및 DevSecOps 엔지니어링 직무를 준비하고 있습니다.  
 무료 인프라나 단일 노드의 자원 한계, 해외 리전 간 네트워크 지연(RTT), 보안 규격 제약 속에서 발생하는 병목을 측정하고 코드로 해결하는 과정에 집중합니다.
 
+- **Tech Blog**: [mmmphyun.github.io/security-agent-toolkit/blog/](https://mmmphyun.github.io/security-agent-toolkit/blog/)
+
 ---
 
 ## 프로젝트
